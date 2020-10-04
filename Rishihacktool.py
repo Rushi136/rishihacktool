@@ -1,5 +1,5 @@
 import smtplib
-
+▁ ▂ ▄ ▅ ▆ ▇ █ RISHI Hack Tool █ ▇ ▆ ▅ ▄ ▂ ▁
 f = open('list.txt','r')
 emails = f.read().split('\n')
 info = [i.split(':') for i in emails if (i.find('@gmail.com')>0)]
