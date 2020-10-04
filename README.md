@@ -1,3 +1,8 @@
-#gmail create tool
+# gmail create tool
+
+
 *apt update"
+
+
 *apt install git"
+
