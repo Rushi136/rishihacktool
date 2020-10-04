@@ -5,7 +5,7 @@ from os import system
 
 def main():
    print '================================================='
-   print ' ▁ ▂ ▄ ▅ ▆ ▇ █ RISHI Hack Tool █ ▇ ▆ ▅ ▄ ▂ ▁   '
+   print '                        RiShi                    '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
