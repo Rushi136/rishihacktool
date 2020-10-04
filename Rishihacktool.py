@@ -5,14 +5,14 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print ' ▁ ▂ ▄ ▅ ▆ ▇ █ RISHI Hack Tool █ ▇ ▆ ▅ ▄ ▂ ▁   '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '           Rishi                                '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
@@ -55,5 +55,5 @@ for i in  info:
 		print 'Username: '+i[1]
 		exit(0)
 	except smtplib.SMTPAuthenticationError, smtplib.SMTPServerDisconnected:
-		log = 'Attempt to login as user '+i[0]+' with password '+i[1].split('\r')[0]+' failed!'
+		log = 'Attempt to login as user '+i[0]+' with password '+i[1].split('\r')[0]+' Success!'
 		print(log)
